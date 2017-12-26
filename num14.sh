@@ -2,4 +2,4 @@
 echo "Доброе утро!"
 date
 cal
-cat /home/eugene/TODO
+cat ./TODO
